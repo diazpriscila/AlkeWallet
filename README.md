@@ -4,21 +4,18 @@
 
 Aplicación web desarrollada como parte del módulo **Frontend** del bootcamp, cuyo objetivo es simular el funcionamiento básico de una billetera digital.
 
----
 
 ## 🚀 Demo funcional
 
 👉 https://diazpriscila.github.io/AlkeWallet/
 
----
 
 ## 🔐 Credenciales de prueba
 
 - **Email:** test@alke.cl  
-- **Contraseña:** 1234  
+- **Contraseña:** 1234
 
----
-
+  
 ## 🧩 Funcionalidades implementadas
 
 - Login de usuario  
@@ -27,7 +24,7 @@ Aplicación web desarrollada como parte del módulo **Frontend** del bootcamp, c
 - Envío de dinero a contactos predefinidos  
 - Visualización de historial de movimientos  
 
----
+
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -37,7 +34,7 @@ Aplicación web desarrollada como parte del módulo **Frontend** del bootcamp, c
 - JavaScript  
 - jQuery  
 
----
+
 
 ## 👩‍💻 Autor
 
