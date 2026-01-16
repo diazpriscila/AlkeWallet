@@ -1,39 +1,44 @@
-Alke Wallet
+# Alke Wallet
 
-Proyecto frontend – Billetera digital
-Desarrollado como parte del módulo Frontend del bootcamp.
+**Proyecto frontend – Billetera digital**
 
-Tecnologías utilizadas
+Aplicación web desarrollada como parte del módulo **Frontend** del bootcamp, cuyo objetivo es simular el funcionamiento básico de una billetera digital.
 
-HTML5
-CSS3
-Bootstrap
-JavaScript
-jQuery
+---
 
-Funcionalidades
+## 🚀 Demo funcional
 
-Login de usuario
+👉 https://diazpriscila.github.io/AlkeWallet/
 
-Visualización de saldo
+---
 
-Depósito de dinero
+## 🔐 Credenciales de prueba
 
-Envío de dinero a contactos
+- **Email:** test@alke.cl  
+- **Contraseña:** 1234  
 
-Visualización de movimientos
+---
 
-Demo funcional
+## 🧩 Funcionalidades implementadas
 
-El proyecto está disponible en GitHub Pages:
-https://diazpriscila.github.io/AlkeWallet/
+- Login de usuario  
+- Visualización de saldo disponible  
+- Depósito de dinero  
+- Envío de dinero a contactos predefinidos  
+- Visualización de historial de movimientos  
 
-Credenciales de prueba
+---
 
-Usuario: test@alke.cl
+## 🛠️ Tecnologías utilizadas
 
-Contraseña: 1234
+- HTML5  
+- CSS3  
+- Bootstrap  
+- JavaScript  
+- jQuery  
 
-Autor
+---
+
+## 👩‍💻 Autor
 
 Priscila Díaz
